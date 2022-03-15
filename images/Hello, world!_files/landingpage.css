@@ -1,0 +1,27 @@
+.header{
+
+    padding: 120px 0px 0px 0px;
+}
+.header h1{
+    color: white;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+}
+.divider{
+    justify-content: center;
+    align-items: center;
+}
+
+.divider-custom-line{
+    width: 100%;
+    max-width: 7rem;
+    /* color: white; */
+    height: 0.2rem;
+    background-color: white;
+    border-radius: 1rem;
+}
+.header-subheading p{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
